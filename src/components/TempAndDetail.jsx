@@ -32,13 +32,13 @@ const TempAndDetail = () => {
                     <UilSun />
                     <p className="font-light">Rise:<span className='font-medium ml-1'>45°</span></p>
                     <p className='font-light'>|</p>
-                    <UilSun />
+                    <UilArrowUp />
                     <p className="font-light">Rise:<span className='font-medium ml-1'>45°</span></p>
                     <p className='font-light'>|</p>
-                    <UilSun />
+                    <UilArrowDown />
                     <p className="font-light">Rise:<span className='font-medium ml-1'>45°</span></p>
                     <p className='font-light'>|</p>
-                    <UilSun />
+                    <UilSunset />
                     <p className="font-light">Rise:<span className='font-medium ml-1'>45°</span></p>
                     <p className='font-light'>|</p>
                 </div>
